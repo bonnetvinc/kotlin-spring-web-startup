@@ -1,0 +1,5 @@
+### Inventory
+GET localhost:8888/v2/store/inventory
+
+### Order id
+GET localhost:8888/v2/store/order/12
